@@ -1,0 +1,15 @@
+.Note {
+    width: 25%;
+    background-color: antiquewhite;
+    margin: 1rem;
+}
+
+.NotesList {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2 {
+    font-weight: bold;
+}
